@@ -1,6 +1,6 @@
-# WanderLust
+# Pro-Rental
 
-WanderLust is a web application designed to help users plan and explore their travel adventures. This project aims to provide features related to travel planning, booking, and exploration.
+Pro-Rental is a web application designed to help users plan and explore their travel adventures. This project aims to provide features related to travel planning, booking, and exploration.
 
 ## Table of Contents
 
@@ -26,16 +26,16 @@ WanderLust is a web application designed to help users plan and explore their tr
 
 ## Installation
 
-To get started with WanderLust, follow these steps:
+To get started with Pro-Rental, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Singh200311/WanderLust.git
+   git clone https://github.com/Singh200311/Pro-Rental.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd WanderLust
+   cd Pro-Rental
    ```
 
 3. Install the required dependencies:
@@ -62,4 +62,4 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 
 
 
-Thank you for checking out WanderLust!
+Thank you for checking out Pro-Rental!
